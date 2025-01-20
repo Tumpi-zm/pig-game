@@ -92,3 +92,6 @@ btnHold.addEventListener('click', function () {
 
 // Reseting the game functionality
 btnNew.addEventListener('click', init);
+
+// Adding Game Instructions
+
